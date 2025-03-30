@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.tekartik.sqflite"
+    minSdkVersion="19"
+    targetSdkVersion="19"
+    mergedManifest="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/intermediates/default_proguard_files/global/proguard-android.txt-8.2.1"
+    partialResultsDir="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/intermediates/lint_vital_partial_results/release/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/intermediates/javac/release/classes:/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/intermediates/compile_r_class_jar/release/R.jar"
+      type="MAIN"
+      applicationId="com.tekartik.sqflite"
+      generatedSourceFolders="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/sherwinvishesh/Downloads/moneymaxxing/build/sqflite_android/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/sherwinvishesh/.gradle/caches/transforms-3/c41b0183e78d5c7d7ee0cc2a106fcb36/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

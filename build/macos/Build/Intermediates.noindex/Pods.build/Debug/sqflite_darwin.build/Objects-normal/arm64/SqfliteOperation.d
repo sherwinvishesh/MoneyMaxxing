@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/sherwinvishesh/Downloads/moneymaxxing/build/macos/Build/Intermediates.noindex/Pods.build/Debug/sqflite_darwin.build/module.modulemap \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteOperation.m \
+  /Users/sherwinvishesh/Downloads/moneymaxxing/macos/Pods/Target\ Support\ Files/sqflite_darwin/sqflite_darwin-prefix.pch \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteOperation.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteImport.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/include/sqflite_darwin/SqfliteImportPublic.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterAppLifecycleDelegate.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterHourFormat.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Users/sherwinvishesh/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterViewController.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqflitePlugin.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/include/sqflite_darwin/SqflitePluginPublic.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteDarwinImport.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteDarwinDB.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteDarwinDatabase.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteDarwinResultSet.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteDarwinDatabaseAdditions.h \
+  /Users/sherwinvishesh/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/darwin/sqflite_darwin/Sources/sqflite_darwin/SqfliteDarwinDatabaseQueue.h

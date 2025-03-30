@@ -1,0 +1,4 @@
+#Sat Mar 29 21:31:38 EDT 2025
+base.0=/Users/sherwinvishesh/Downloads/moneymaxxing/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

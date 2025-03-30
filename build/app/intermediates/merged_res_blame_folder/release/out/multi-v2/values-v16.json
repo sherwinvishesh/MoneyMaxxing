@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.neox_app_v1.app-mergeReleaseResources-39:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/sherwinvishesh/.gradle/caches/transforms-3/8d8ec0e544187428c2f7eb1401eb5735/transformed/appcompat-1.1.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

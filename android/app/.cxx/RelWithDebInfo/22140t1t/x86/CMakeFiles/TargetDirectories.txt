@@ -1,0 +1,2 @@
+/Users/sherwinvishesh/Downloads/moneymaxxing/android/app/.cxx/RelWithDebInfo/22140t1t/x86/CMakeFiles/edit_cache.dir
+/Users/sherwinvishesh/Downloads/moneymaxxing/android/app/.cxx/RelWithDebInfo/22140t1t/x86/CMakeFiles/rebuild_cache.dir
